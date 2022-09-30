@@ -1,0 +1,13 @@
+name: assignment-1-test
+on: [push]
+jobs:
+  run-empty-test-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: npm i
+      - name: run tests
+        run: npm run test
