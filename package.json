@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stan-l-e-y/COMP3104_Group22_Assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stan-l-e-y/COMP3104_Group22_Assignment/issues"
+  },
   "author": "",
   "license": "ISC"
 }
