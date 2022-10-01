@@ -1,0 +1,1 @@
+learning DevOps helps in reducing the time for cycles of development and also ensures a faster rate of innovation. If the operations and development teams are in different silos then obviously it will be a hard task to identify whether the application is ready for operation or not
