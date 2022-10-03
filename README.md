@@ -14,3 +14,6 @@ Jordon - Added file about the importance of DEVOPS in SDLC - commit 6
 Jordon - Updated README again - commit 7
 Jordon - Updated file about devops to include more information - commit 8
 Jordon - Updated README file once more - commit 9
+Jordon - Updating README one final time before commit and merge - Commit 10
+
+Jordon - SID: 100740151
