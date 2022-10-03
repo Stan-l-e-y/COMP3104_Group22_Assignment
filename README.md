@@ -3,6 +3,7 @@
 [![assignment-1-test](https://github.com/Stan-l-e-y/COMP3104_Group22_Assignment/actions/workflows/.github-actions-build.yml/badge.svg)](https://github.com/Stan-l-e-y/COMP3104_Group22_Assignment/actions/workflows/.github-actions-build.yml)
 
 Stanley - added a commit from my personal branch
+Julio - Added a comiit
 
 Jordon - adding first commit to personal branch -> Commit 1
 Jordon - Commited and added file about George Brown to personal branch - 
