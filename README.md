@@ -10,3 +10,5 @@ commit 2
 Jordon - Updated README - commit 3
 Jordon - Added file about the devops course - commit 4
 Jordon - Updated README again - commit 5
+Jordon - Added file about the importance of DEVOPS in SDLC - commit 6
+Jordon - Updated README again - commit 7
