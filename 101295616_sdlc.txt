@@ -1,1 +1,8 @@
-learning DevOps helps in reducing the time for cycles of development and also ensures a faster rate of innovation. If the operations and development teams are in different silos then obviously it will be a hard task to identify whether the application is ready for operation or not
+The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. in detail, the SDLC methodology focuses on the following phases of software development:
+
+Requirement analysis
+Planning
+Software design such as architectural design
+Software development
+Testing
+Deployment
