@@ -8,3 +8,5 @@ Jordon - adding first commit to personal branch -> Commit 1
 Jordon - Commited and added file about George Brown to personal branch - 
 commit 2
 Jordon - Updated README - commit 3
+Jordon - Added file about the devops course - commit 4
+Jordon - Updated README again - commit 5
