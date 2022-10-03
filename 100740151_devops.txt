@@ -5,3 +5,6 @@ collbaborate with other students, learn how to do proper version control,
 and learning how to use various other tools. All of these combined will 
 help us to be stronger developers durring the life cycle of the projects 
 that we work on. 
+
+We are currently working on the first assignment about collaborating with other students through one 
+repository.  
