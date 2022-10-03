@@ -1,0 +1,5 @@
+About DevOps
+
+This course will help student to better prepare professionals entering the IT filed
+by practicing IT standards of DevOps. COMP 3104 will provide a hands-on experience through
+the implementation of tried and tested and true DevOps technologies
