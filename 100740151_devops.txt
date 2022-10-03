@@ -1,0 +1,7 @@
+COMP3014 DEVOPS is a course that is in the third year of the Computer 
+Programming and Analysis program. This course will teach students about 
+being good devops developers by giving us the tools to properly 
+collbaborate with other students, learn how to do proper version control, 
+and learning how to use various other tools. All of these combined will 
+help us to be stronger developers durring the life cycle of the projects 
+that we work on. 
