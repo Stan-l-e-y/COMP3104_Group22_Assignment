@@ -18,3 +18,5 @@ Jordon - Updated README file once more - commit 9
 Jordon - Updating README one final time before commit and merge - Commit 10
 
 Jordon - SID: 100740151
+
+Joseph - Added a commit from my branch
