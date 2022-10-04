@@ -1,1 +1,4 @@
-Software Development Life Cycle is the application of standard business practices to building software applications. It’s typically divided into six to eight steps: Planning, Requirements, Design, Build, Document, Test, Deploy, Maintain.
+Software Development Life Cycle is the application of standard business practices to building software applications. 
+It’s typically divided into six to eight steps: Planning, Requirements, Design, Build, Document, Test, Deploy, Maintain.
+
+- Joseph De Gois
